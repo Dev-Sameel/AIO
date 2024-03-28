@@ -27,6 +27,7 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
      return Scaffold(
+      backgroundColor: Colors.red[100],
       appBar: AppBar(title: const Text("Razor pay")),
       body: Center(
           child: Column(

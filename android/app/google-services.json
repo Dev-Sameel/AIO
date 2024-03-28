@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851044920089",
+    "project_id": "pushnotification-79d12",
+    "storage_bucket": "pushnotification-79d12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851044920089:android:3e8dfaed792c0ca5337388",
+        "android_client_info": {
+          "package_name": "com.example.razorpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOuILMCAUNOM5ydRYOW17XRLGh7WfPpmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
